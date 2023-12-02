@@ -29,7 +29,7 @@ const Navbar = () => {
         <Link to="/" className="flex-none w-10">
           <img src={logo} className="w-full" />
         </Link>
-        <h1 className="font-bold text-[26px] -ml-10">SkillSpace</h1>
+        {/* <h1 className="font-bold text-[26px] -ml-10">SkillSpace</h1> */}
 
         <div
           className={
